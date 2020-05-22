@@ -11,4 +11,4 @@ Refer to this youtube video for more instructions
 
 Print this pattern file to overlay to your credit card to cut it.
 
-https://github.com/cheungbx/creditcard-crystal-radio/blob/master/credit%20card%20radio%20v2.pdf
+https://github.com/cheungbx/circular-credit-card-radio/blob/master/credit%20card%20radio%20circular.pdf
