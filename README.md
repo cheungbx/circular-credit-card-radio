@@ -1,7 +1,7 @@
 # circular-credit-card-radio
 
 
-![jpg1](blob/master/circular_creditcard_radio.jpg) 
+![jpg1](https://github.com/cheungbx/circular-credit-card-radio/blob/master/circular_creditcard_radio.jpg) 
 
 circular creditcard crystal radio
 #
